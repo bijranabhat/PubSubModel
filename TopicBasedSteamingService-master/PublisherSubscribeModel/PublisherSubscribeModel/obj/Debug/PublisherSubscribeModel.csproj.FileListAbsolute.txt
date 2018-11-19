@@ -1,0 +1,6 @@
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\bin\Debug\PublisherSubscribeModel.exe.config
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\bin\Debug\PublisherSubscribeModel.exe
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\bin\Debug\PublisherSubscribeModel.pdb
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\obj\Debug\PublisherSubscribeModel.csprojResolveAssemblyReference.cache
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\obj\Debug\PublisherSubscribeModel.exe
+C:\Users\DePauw\Desktop\PublisherSubscribeModel\PublisherSubscribeModel\obj\Debug\PublisherSubscribeModel.pdb
